@@ -13,7 +13,7 @@ What's special? What is this config about?
 
 2: Seamless and high quality shadow maps with longer distances🏞️ with the addition of billboard shadows enabled
 
-3: Optimied large LOD distance scale for better viewing experience
+3: Optimised large LOD distance scale for better viewing experience
 
 4: Top notch SSR(Screen Space Reflection)
 
