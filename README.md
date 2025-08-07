@@ -7,8 +7,8 @@ Requirements
 2: 8GB or More ram
 3: Required vulkan supported device
 
-What's spatial?
---------------
+What's special? What is this config about?
+------------------------------------------
 1: Peak high quality overall graphics rendering that almost matches PC graphics✨
 
 2: Seamless and high quality shadow maps with longer distances🏞️ with the addition of billboard shadows enabled
