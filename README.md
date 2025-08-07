@@ -29,14 +29,14 @@ set 60 fps for 120hz display =120fps
 
 9: Smooth shadow updates. Say goodbye to jagged day and nigh trasition for shadows🌄🌃
 
-10: Moddified particles bias for better partiles on longer distance(Optimied)
+10: Moddified particles bias for better particles on longer distance(Optimised)
 
 ---------Doubts---------
 1.Will my phone heat up?
 A.Yes. Because of the heavy process that happening on the phone GPU and CPU heat starts to get high
 solution-Use a thermo electric phone cooler(highly recommended)
 
-2.Whattly happens if my game starts to crashes after apply(Never happen cz it's perfectly made. In case something happens)
+2.What happens if my game starts to crashes after apply(Never happen cz it's perfectly made. In case something happens)
 A.Delete the config from directory. it will retain to the original file.
 
 3.Can i increase graphics further more?
