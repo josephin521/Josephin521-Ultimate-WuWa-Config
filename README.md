@@ -1,4 +1,4 @@
-# Josephin521-Ultimate-WuWa-Config
+# SIMPLAY-AAA-grade-WuWa-Config-On-Android
 A Wuthering Waves config that only for High end devices to provide maximum visual quality as possible. Fix for graphics issues
 
 Requirements
@@ -46,7 +46,8 @@ A. All the commands that currently being used on this config is perfectly for no
 A.Yes. things like Golabl illumination,Effects,Light shafts etc... will be added with proper trial and error optimization for best experience as possible.
 
 -------Happy Gaming Fellas------
-
+     Created by Josephin521
+            SIMPLAY
 ------------The End-------------
 
 ![Image](https://github.com/user-attachments/assets/1507a006-384a-40aa-be0b-3699ffaad129)
