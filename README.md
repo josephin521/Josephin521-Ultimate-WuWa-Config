@@ -19,7 +19,7 @@ What's special? What is this config about?
 
 5: Cinematic water quality with some underwater folliages visibility 🌊 
 
-6:High sampling rate audio quality along with better spatial audio using HRTF algorithm and reverbs 🎧 🔊 
+6:High sampling rate audio quality along with better tuned and modified spatial audio that using HRTF algorithm and reverbs 🎧 🔊 
 
 7: Frame Generation using AFME(Adreno frame motion engine)
 set 30 fps for 60hz display = 60fps
