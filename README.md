@@ -39,12 +39,6 @@ solution-Use a thermo electric phone cooler(highly recommended)
 2.What happens if my game starts to crashes after apply(Never happen cz it's perfectly made. In case something happens)
 A.Delete the config from directory. it will retain to the original file.
 
-3.Can i increase graphics further more?
-A. All the commands that currently being used on this config is perfectly for now. Unwanted changes makes game unstable. For more graphics updates stay tuned. There is more to come by.
-
-4.Any future plans on this config?
-A.Yes. things like Golabl illumination,Effects,Light shafts etc... will be added with proper trial and error optimization for best experience as possible.
-
 -------Happy Gaming Fellas------
      Created by Josephin521
             SIMPLAY
