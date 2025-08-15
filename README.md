@@ -22,8 +22,9 @@ What's special? What is this config about?
 6:High sampling rate audio quality along with better tuned and modified spatial audio that using HRTF algorithm and reverbs 🎧 🔊 
 
 7: Frame Generation using AFME(Adreno frame motion engine)
-perfectlyappenomethingpet 30 fps for 60hz display = 60fps.
-setet 60 fps for 120hz set =120fps.
+Make sure to enable Frame generation option that appears on the game graphics settings after applying this config.
+Set 30 fps for 60hz display = 60fps.
+Set 60 fps for 120hz set =120fps.
 
 8: Large area of 🍃 wind scale for grass maps
 
